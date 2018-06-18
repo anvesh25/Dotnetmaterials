@@ -1,0 +1,9 @@
+G:\ReacJs\Dotnetmaterials\Contact Application\Contact Application\bin\Debug\Contact Application.exe.config
+G:\ReacJs\Dotnetmaterials\Contact Application\Contact Application\bin\Debug\Contact Application.exe
+G:\ReacJs\Dotnetmaterials\Contact Application\Contact Application\bin\Debug\Contact Application.pdb
+G:\ReacJs\Dotnetmaterials\Contact Application\Contact Application\obj\Debug\Contact Application.csprojResolveAssemblyReference.cache
+G:\ReacJs\Dotnetmaterials\Contact Application\Contact Application\obj\Debug\Contact_Application.Form1.resources
+G:\ReacJs\Dotnetmaterials\Contact Application\Contact Application\obj\Debug\Contact_Application.Properties.Resources.resources
+G:\ReacJs\Dotnetmaterials\Contact Application\Contact Application\obj\Debug\Contact Application.csproj.GenerateResource.Cache
+G:\ReacJs\Dotnetmaterials\Contact Application\Contact Application\obj\Debug\Contact Application.exe
+G:\ReacJs\Dotnetmaterials\Contact Application\Contact Application\obj\Debug\Contact Application.pdb
