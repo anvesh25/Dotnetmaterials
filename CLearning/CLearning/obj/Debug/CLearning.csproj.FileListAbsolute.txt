@@ -1,0 +1,6 @@
+G:\ReacJs\Dotnetmaterials\CLearning\CLearning\bin\Debug\CLearning.exe.config
+G:\ReacJs\Dotnetmaterials\CLearning\CLearning\bin\Debug\CLearning.exe
+G:\ReacJs\Dotnetmaterials\CLearning\CLearning\bin\Debug\CLearning.pdb
+G:\ReacJs\Dotnetmaterials\CLearning\CLearning\obj\Debug\CLearning.csprojResolveAssemblyReference.cache
+G:\ReacJs\Dotnetmaterials\CLearning\CLearning\obj\Debug\CLearning.exe
+G:\ReacJs\Dotnetmaterials\CLearning\CLearning\obj\Debug\CLearning.pdb

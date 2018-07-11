@@ -1,0 +1,5 @@
+G:\ReacJs\Dotnetmaterials\LoginStored\LoginStored\bin\LoginStored.dll
+G:\ReacJs\Dotnetmaterials\LoginStored\LoginStored\bin\LoginStored.pdb
+G:\ReacJs\Dotnetmaterials\LoginStored\LoginStored\obj\Debug\LoginStored.csprojResolveAssemblyReference.cache
+G:\ReacJs\Dotnetmaterials\LoginStored\LoginStored\obj\Debug\LoginStored.dll
+G:\ReacJs\Dotnetmaterials\LoginStored\LoginStored\obj\Debug\LoginStored.pdb
