@@ -1,0 +1,5 @@
+G:\ReacJs\Dotnetmaterials\LoginRegistration\LoginRegistration\bin\LoginRegistration.dll
+G:\ReacJs\Dotnetmaterials\LoginRegistration\LoginRegistration\bin\LoginRegistration.pdb
+G:\ReacJs\Dotnetmaterials\LoginRegistration\LoginRegistration\obj\Debug\LoginRegistration.csprojResolveAssemblyReference.cache
+G:\ReacJs\Dotnetmaterials\LoginRegistration\LoginRegistration\obj\Debug\LoginRegistration.dll
+G:\ReacJs\Dotnetmaterials\LoginRegistration\LoginRegistration\obj\Debug\LoginRegistration.pdb

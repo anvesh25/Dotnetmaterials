@@ -1,0 +1,92 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Master Details Entry Form</h2>
+<div class="container" style="max-width:640px">
+    <div class="masster">
+        <h4> Order Details</h4>
+        <table>
+            <tr>
+                <td>Order No</td>
+                <td>
+                    <input type="text" id="OrderNo" />
+                    <span class="has-error">Order No required</span>
+                </td>
+                <td>Order Date</td>
+                <td>
+                    <input type="text" id="Orderdate" />
+                    <span class="has-error">Order Date is required (ex. MM-dd-yyyy)</span>
+                </td>
+            </tr>
+            <tr>
+                <td>Description</td>
+                <td colspan="3">
+                    <textarea id="description" style="width:100%"></textarea>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="details">
+        <h4>Order Item</h4>
+        <table width="=100%">
+            <tr>
+                <td>Item Name</td>
+                <td>Quality</td>
+                <td>Rate</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="text" id="itemName" />
+                    <span class="has-error">Item name required</span>
+                </td>
+                <td>
+                    <input type="text" id="quality" />
+                    <span class="has-error">Valid quality required</span>
+                </td>
+                <td>
+                    <input type="text" id="rate" />
+                    <span class="has-error">Valid rate is required</span>
+                </td>
+                <td>
+                    <input type="button" id="add" value="Add" />
+                </td>
+            </tr>
+        </table>
+        <div id="orderItems" class="tablecontainer">
+
+        </div>
+        <div style="padding:10px 0px; text-align:right">
+            <input id="submit" type="button" value="save" style="padding:10px 20px" />
+        </div>
+    </div>
+</div>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" />
+@section Scripts{
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script>
+        //Date picker
+        $(function () {
+            $('OderDate').datrpicker({
+                dateformat: 'mm-dd-yy'
+            });
+        });
+        $(document).ready(function () {
+            var orderItems = [];
+            //Add button click function
+
+            //Save button click function
+
+            //Function for show added items in table
+            function GeneratedItemsTable() {
+                if(orderItems.length>0)
+                {
+                    var $table = $('<table>');
+                    $table.append()
+                }
+            }
+        })
+    </script>
+    }
